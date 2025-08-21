@@ -4,7 +4,7 @@ test repo
 
 ## TODO
 
-- [ ] add flotilla
+- [ x ] add flotilla
 - [ ] add budabit
-- [ ] add flotilla-budabit
+- [ x ] add flotilla-budabit
 - [ ] add flotilla-budabit-demo-2
